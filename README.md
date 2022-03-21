@@ -1,1 +1,2 @@
 # New-York-Bio-Diversity
+In this project I used a dataset I discovered from data.world showing the recorded bio-diversity of the state of New York. I used several queries in Microsoft SQL Server to locate certain species and areas they've been recorded in. After that I exported the tables to excel for use in tableau. The visualizations can be seen here: https://public.tableau.com/app/profile/ashtin4783/viz/ABriefGlimpseatNewYorksBio-Diversity/Story1
